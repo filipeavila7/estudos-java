@@ -12,9 +12,9 @@ public class EstruturasDeRepeticaoEx3 {
             double valorParcela = valorTotal / parcela;
             // mas mostrara somente o resultado da divisao que for maior que mii
             if (valorParcela < 1000) {
-                break;
+                break; // o continue ignora tudo que tem em baixo e o loop volta
             }
-            System.out.println("parcela: " + parcela + " R$ " + valorParcela);;
+            System.out.println("parcela: " + parcela + " R$ " + valorParcela);
             }
         }
     }
