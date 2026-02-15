@@ -1,4 +1,4 @@
-package src.estudos.java;
+package src.estudos.introducao;
 
 public class Arrays03 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package src.estudos.java;
+package src.estudos.introducao;
 // aula 04
 public class Operadores {
     public static void main(String[] args) {

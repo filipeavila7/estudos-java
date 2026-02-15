@@ -1,0 +1,56 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CalculadoraTest01",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.introducaometodos.test.CalculadoraTest01",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "CarroTeste",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.introducaoclasses.test.CarroTeste",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "Professor01Test",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.introducaoclasses.test.Professor01Test",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "Pessoa01Test",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.introducaoclasses.teste.Pessoa01Test",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "ArraysMultiDimensionais02",
+            "request": "launch",
+            "mainClass": "src.estudos.java.ArraysMultiDimensionais02",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "EstruturasCondicionais",
+            "request": "launch",
+            "mainClass": "src.estudos.java.EstruturasCondicionais",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}

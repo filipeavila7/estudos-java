@@ -1,4 +1,4 @@
-package src.estudos.java;
+package src.estudos.introducao;
 // aula 03
 public class ExTiposPrimitivos {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package src.estudos.java;
+package src.estudos.introducao;
 // aula 05 
 public class EstruturasCondicionais {
     public static void main(String[] args) {

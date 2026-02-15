@@ -1,4 +1,4 @@
-package src.estudos.java;
+package src.estudos.introducao;
 // aula 01
 /**
  * isso é um comentario javadoc, serve para explicar oq uma classe faz
