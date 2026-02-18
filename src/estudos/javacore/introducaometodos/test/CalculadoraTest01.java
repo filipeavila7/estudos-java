@@ -11,7 +11,10 @@ public class CalculadoraTest01 {
         calculadora.somaDoisNumeros(10, 30);
         calculadora.subDoisNumeros(100, 49);
         calculadora.multiDoisNumeros(20, 3);
-        calculadora.divDoisNumeros(10, 2);
+        calculadora.divDoisNumeros(10, 4);
+
+        calculadora.divideDoisNumeros(3, 0);
+        calculadora.Dividir2numeros(20, 0);
 
         // colocar double pois o metodo retorna um double
         double result =  calculadora.divideDoisNumeros(30, 3);

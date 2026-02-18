@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FuncionarioTest",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.introducaometodos.test.FuncionarioTest",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "CalculadoraTest03",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.introducaometodos.test.CalculadoraTest03",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "GatoTest",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.introducaometodos.test.GatoTest",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "EstudanteTest02",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.introducaometodos.test.EstudanteTest02",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "Estudante01Test",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.introducaoclasses.test.Estudante01Test",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "EstudanteTest01",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.introducaometodos.test.EstudanteTest01",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "CalculadoraTest02",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.introducaometodos.test.CalculadoraTest02",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
             "name": "CalculadoraTest01",
             "request": "launch",
             "mainClass": "src.estudos.javacore.introducaometodos.test.CalculadoraTest01",
