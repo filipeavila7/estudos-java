@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AnimeTest",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.sobrecargametodos.test.AnimeTest",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "FuncionarioTest2",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.introducaometodos.test.FuncionarioTest2",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "PessoaTest01",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.introducaometodos.test.PessoaTest01",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
             "name": "FuncionarioTest",
             "request": "launch",
             "mainClass": "src.estudos.javacore.introducaometodos.test.FuncionarioTest",

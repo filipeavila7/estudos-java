@@ -4,6 +4,10 @@ package src.estudos.javacore.introducaometodos.dominio;
 public class FuncionarioImprimir {
     // metodo de imprimir os dados do usuario, recebendo como parametro o proprio objeto
     public void imprimirDados(Funcionario funcionario){
+        
+        if (funcionario.salario == null) {
+            return;
+        }
 
         System.out.println("Nome: "+ funcionario.nome);
         System.out.println("Idade: "+ funcionario.idade);
@@ -19,6 +23,11 @@ public class FuncionarioImprimir {
                 
     // metodo que imprime a media salarial do funcionario, tambem usa como parametro o objeto
     public void mediaSalario(Funcionario funcionario){
+
+        if (funcionario.salario == null) {
+            return;
+        }
+
         // logica da media, somar todos os valores do array e dividir pelo o seu leght (tamanho)
         double media = 0;
 

@@ -8,7 +8,7 @@ public class FuncionarioTest {
         // instaciar um novo usuario
         Funcionario funcionario = new Funcionario();
         // instaciar um objeto de imprimir para usar os metodos relativos a ele
-        FuncionarioImprimir imprimir = new FuncionarioImprimir();
+        FuncionarioImprimir imprimir = new FuncionarioImprimir();      
 
         // atribuir valores
         funcionario.nome = "Filipe";
