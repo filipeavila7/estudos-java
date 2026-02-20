@@ -1,14 +1,31 @@
-package src.estudos.javacore.sobrecargametodos.dominio;
+package src.estudos.javacore.construtores.dominio;
 
 public class Anime {
     private String tipo;
     private int episodios;
     private String nome;
     private String genero;
+    private String studio;
 
-    // construtor
+    // construtor, nunca retorna nada
+    public Anime(String nome, String tipo, int episodios, String genero){
+        // chmar um construtor sem argumentos
+        this();
+        this.nome = nome;
+        this.tipo = tipo;
+        this.episodios = episodios;
+        this.genero = genero;
+    }
+    public Anime(String nome, String tipo, int episodios, String genero, String studio){
+        // chmar um construtor
+        // o java sabe qual contrutor é, com base no tipo dos parametros
+        this(nome, tipo, episodios, genero);
+        this.studio =  studio;
+    }
+
+    // sobrecarga de construtores, poder usar ou não o construtor
     public Anime(){
-        
+
     }
 
     public void init(String nome, String tipo, int episodios){

@@ -8,6 +8,9 @@ public class AnimeTest {
 
         // settar os atributos todos de uma vez
         anime.init("bleach", "shonen", 300);
+        
+        anime.init("bleach", "shonen", 300, "acao");
+        
         anime.imprime();
     }
 }

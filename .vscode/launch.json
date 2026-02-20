@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CarroTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.modificadorstatic.test.CarroTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "AnimeTest",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.blocosinicializacao.test.AnimeTest",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "AnimeTest",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.construtores.test.AnimeTest",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
             "name": "AnimeTest",
             "request": "launch",
             "mainClass": "src.estudos.javacore.sobrecargametodos.test.AnimeTest",
