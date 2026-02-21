@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CalculadoraTest",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.associacao.test.CalculadoraTest",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "LeituraDoTecladoTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.associacao.test.LeituraDoTecladoTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "JogadorTest3",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.associacao.test.JogadorTest3",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "EscolaTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.associacao.test.EscolaTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "JogadorTest2",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.associacao.test.JogadorTest2",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "JogadorTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.associacao.test.JogadorTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
             "name": "CarroTest1",
             "request": "launch",
             "mainClass": "src.estudos.javacore.modificadorstatic.test.CarroTest1",
