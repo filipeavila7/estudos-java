@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HereancaTest",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.heranca.test.HereancaTest",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "ExercicioTest",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.associacaoex.test.ExercicioTest",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
             "name": "CalculadoraTest",
             "request": "launch",
             "mainClass": "src.estudos.javacore.associacao.test.CalculadoraTest",
