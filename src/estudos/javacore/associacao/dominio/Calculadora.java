@@ -25,7 +25,39 @@ public class Calculadora {
         double resultado = num1 + num2;
 
         System.out.println("A soma dos numeros é: "+ resultado);
+    }
 
+    public void subDoisNumeros(double num1, double num2){
+        this.num1 = num1;
+        this.num2 = num2;
+
+        double resultado = num1 - num2;
+
+        System.out.println("A subtração dos numeros é: "+ resultado);
+
+    }
+    
+    public void MultiDoisNumeros(double num1, double num2){
+        this.num1 = num1;
+        this.num2 = num2;
+
+        double resultado = num1 * num2;
+
+        System.out.println("A multiplicação dos numeros é: "+ resultado);
+
+    }
+
+    public void divDoisNumeros(double num1, double num2){
+        this.num1 = num1;
+        this.num2 = num2;
+
+        double resultado = num1 / num2;
+        if (num2 == 0) {
+            System.out.println("Impossível dividir por 0");
+            return;
+        }
+
+        System.out.println("A divisão dos numeros é: "+ resultado);
 
     }
 
