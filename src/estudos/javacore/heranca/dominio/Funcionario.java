@@ -2,7 +2,27 @@ package src.estudos.javacore.heranca.dominio;
 
 // herdar os atributos e metodos da classe pessoa:
 public class Funcionario extends Pessoa{
+
+   static{
+        System.out.println("dentro do bloco estatico de funcionario");
+    }
+
+    {
+        System.out.println("dentro do bloco de inicializacao nao estatico de funcionario 1");
+    }
+
+    {
+        System.out.println("dentro do bloco de inicializacao nao estatico de funcionario 2");
+    }
+
     private double salario;
+
+
+    public Funcionario(String nome, String cpf, double salario){
+        super(nome, cpf); // herdar o construtor de pessoa
+        this.salario = salario;
+        System.out.println("dentro do construtor de funcionario");
+    }
 
     // subscrever o metodo de pessoa, colocando o msm nome
     public void imprime(){

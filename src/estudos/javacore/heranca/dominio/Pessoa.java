@@ -5,6 +5,27 @@ public class Pessoa {
     protected String cpf; // permite tb que outras classes do msm pacote acessem os atributos                                  
     protected Endereco endereco;
 
+    static{
+        System.out.println("dentro do bloco estatico de pessoa");
+    }
+
+    {
+        System.out.println("dentro do bloco de inicializacao nao estatico de pessoa 1");
+    }
+
+    {
+        System.out.println("dentro do bloco de inicializacao nao estatico de pessoa 2");
+    }
+    
+
+    public Pessoa(String nome, String cpf) {
+        this.nome = nome;
+        this.cpf = cpf;
+
+        System.out.println("dentro do construtor de pessoa");
+    }
+
+
     public void imprime(){
         System.out.println(this.nome);
         System.out.println(this.cpf);

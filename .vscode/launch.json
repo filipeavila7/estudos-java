@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CarroTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.modificadorfinal.test.CarroTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "AnimeTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.subescrita.test.AnimeTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "HereancaTest2",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.heranca.test.HereancaTest2",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
             "name": "HereancaTest",
             "request": "launch",
             "mainClass": "src.estudos.javacore.heranca.test.HereancaTest",
