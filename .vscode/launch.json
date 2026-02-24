@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ClienteTest2",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.enumeracoes.test.ClienteTest2",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "ClienteTest",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.enumeracoes.test.ClienteTest",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
             "name": "CarroTest1",
             "request": "launch",
             "mainClass": "src.estudos.javacore.modificadorfinal.test.CarroTest1",

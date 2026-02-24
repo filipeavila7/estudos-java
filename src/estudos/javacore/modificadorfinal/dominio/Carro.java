@@ -34,7 +34,10 @@ public class Carro {
         return VELOCIDADE_LIMITE;
     }
 
-   
+    // metodo final em uma superclasse define que ometodo jamais podera ser subescrito em uma classe filha 
+    public final void imprime(){
+        System.out.println(this.nome);
+    }
 
     
 

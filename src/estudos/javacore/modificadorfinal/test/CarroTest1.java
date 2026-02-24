@@ -2,6 +2,7 @@ package src.estudos.javacore.modificadorfinal.test;
 
 import src.estudos.javacore.modificadorfinal.dominio.Carro;
 import src.estudos.javacore.modificadorfinal.dominio.Comprador;
+import src.estudos.javacore.modificadorfinal.dominio.Ferrari;
 
 public class CarroTest1 {
     public static void main(String[] args) {
@@ -14,6 +15,10 @@ public class CarroTest1 {
         System.out.println(carro.COMPRADOR);
 
         Comprador comprador2 = new Comprador();
+
+        Ferrari ferrari = new Ferrari();
+        ferrari.setNome("ferrari");
+        ferrari.imprime();
 
         
     }
