@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ProdutoTest03",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.polimorfismo.test.ProdutoTest03",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "ProdutoTest2",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.polimorfismo.test.ProdutoTest2",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "ProdutoTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.polimorfismo.test.ProdutoTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "DataLoadertest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.interfaces.test.DataLoadertest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "BeijoTest",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.classesabstratas.test.BeijoTest",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "FuncionarioTest",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.classesabstratas.test.FuncionarioTest",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
             "name": "ClienteTest2",
             "request": "launch",
             "mainClass": "src.estudos.javacore.enumeracoes.test.ClienteTest2",
