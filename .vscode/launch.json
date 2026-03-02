@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RunTimeExceptionTest2",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.runtime.test.RunTimeExceptionTest2",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "ExemptionTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.exeption.test.ExemptionTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "RunTimeExeptionTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.runtime.test.RunTimeExeptionTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "StackOverFlowTest",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.exeption.test.StackOverFlowTest",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "RepositorioTest",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.polimorfismo.test.RepositorioTest",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
             "name": "ProdutoTest03",
             "request": "launch",
             "mainClass": "src.estudos.javacore.polimorfismo.test.ProdutoTest03",
