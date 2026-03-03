@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LoginIvalidoExceptionTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.runtime.test.LoginIvalidoExceptionTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "TryWithResource",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.runtime.test.TryWithResource",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "RunTimeExeptionTest4",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.runtime.test.RunTimeExeptionTest4",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "RunTimeExeptionTest3",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.runtime.test.RunTimeExeptionTest3",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
             "name": "RunTimeExceptionTest2",
             "request": "launch",
             "mainClass": "src.estudos.javacore.runtime.test.RunTimeExceptionTest2",
