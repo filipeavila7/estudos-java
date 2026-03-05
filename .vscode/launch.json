@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DateFormatTest",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.datas.test.DateFormatTest",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "CalendarTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.datas.test.CalendarTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "DateTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.datas.test.DateTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "StringBuilderTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.strings.test.StringBuilderTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "StringPerfomanceTest",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.strings.test.StringPerfomanceTest",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "StringTest2",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.Strings.test.StringTest2",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "StringsTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.Strings.test.StringsTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "WrappersTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.wrappers.test.WrappersTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "SobescritaExceptionTest",
+            "request": "launch",
+            "mainClass": "src.estudos.javacore.runtime.test.SobescritaExceptionTest",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
             "name": "LoginIvalidoExceptionTest1",
             "request": "launch",
             "mainClass": "src.estudos.javacore.runtime.test.LoginIvalidoExceptionTest1",
