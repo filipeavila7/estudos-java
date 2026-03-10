@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "fileTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.io.test.fileTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "ScannerTest2",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.regex.test.ScannerTest2",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "ScannerTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.regex.test.ScannerTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "PatternMatcherTest5",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.regex.test.PatternMatcherTest5",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "PatternMtcherTest3",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.regex.test.PatternMtcherTest3",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "PatternMtcherTest2",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.regex.test.PatternMtcherTest2",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "PatternMtcherTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.regex.test.PatternMtcherTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "ResourceBundleTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.resourcebundle.test.ResourceBundleTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
             "name": "ChronoUnitTest1",
             "request": "launch",
             "mainClass": "src.estudos.javaintermediario.datas.test.ChronoUnitTest1",
