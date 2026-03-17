@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ListTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.colecoes.test.ListTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "EqualsTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.colecoes.test.EqualsTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "SerializacaoTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.serializacao.test.SerializacaoTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "PathTest2",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.nio.test.PathTest2",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "PathTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.nio.test.PathTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "FileTest2",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.io.test.FileTest2",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "BuffedReaderTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.io.test.BuffedReaderTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "BuffedWriterTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.io.test.BuffedWriterTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "FileReaderTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.io.test.FileReaderTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "FileWriterTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.io.test.FileWriterTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
             "name": "fileTest1",
             "request": "launch",
             "mainClass": "src.estudos.javaintermediario.io.test.fileTest1",
