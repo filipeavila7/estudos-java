@@ -26,7 +26,15 @@ public class SmartPhone {
         
     }
 
+
     
+    
+    @Override
+    public String toString() {
+        return "SmartPhone [serialNumber=" + serialNumber + ", marca=" + marca + "]";
+    }
+
+
     // regras
     // se x.equals(y) == true, y.hashCode() == x.hashCode()
     // se y.hashCode() == x.hashCode() não necessariamente o equals de y.equals(x) tem que ser true

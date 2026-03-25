@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NavigableSetTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.colecoes.test.NavigableSetTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "SetTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.colecoes.test.SetTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "IteratorTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.colecoes.test.IteratorTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "ListaArrayConversaoTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.colecoes.test.ListaArrayConversaoTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearchTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.colecoes.test.BinarySearchTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "ListSortTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.colecoes.test.ListSortTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "SmartPhoneListTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.colecoes.test.SmartPhoneListTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
             "name": "ListTest1",
             "request": "launch",
             "mainClass": "src.estudos.javaintermediario.colecoes.test.ListTest1",
