@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MapTest2",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.colecoes.test.MapTest2",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "MapTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.colecoes.test.MapTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
             "name": "NavigableSetTest1",
             "request": "launch",
             "mainClass": "src.estudos.javaintermediario.colecoes.test.NavigableSetTest1",
