@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ClasseGenericaTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.generics.test.ClasseGenericaTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "WildCardTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.generics.WildCardTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
             "name": "MapTest2",
             "request": "launch",
             "mainClass": "src.estudos.javaintermediario.colecoes.test.MapTest2",
