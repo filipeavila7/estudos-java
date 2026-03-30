@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ClassesInternasTest2",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.classesinternas.test.ClassesInternasTest2",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "ClassesInternasTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.classesinternas.test.ClassesInternasTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "MetodoGenericoTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.generics.test.MetodoGenericoTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
             "name": "ClasseGenericaTest1",
             "request": "launch",
             "mainClass": "src.estudos.javaintermediario.generics.test.ClasseGenericaTest1",

@@ -1,15 +1,15 @@
 package src.estudos.javaintermediario.generics.dominio;
 
-public class Barcco {
+public class Barco {
     private String nome;
 
-    public Barcco(String nome) {
+    public Barco(String nome) {
         this.nome = nome;
     }
 
     @Override
     public String toString() {
-        return "Barcco [nome=" + nome + "]";
+        return "Barco [nome=" + nome + "]";
     }
 
     
