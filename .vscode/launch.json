@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ComportamentoPorParametroTest2",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.comportamentos.test.ComportamentoPorParametroTest2",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "ComportamentoPorParametroTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.comportamentos.test.ComportamentoPorParametroTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "ClassesInternasTest3",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.classesinternas.test.ClassesInternasTest3",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "ClassesAnonimasTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.classesinternas.test.ClassesAnonimasTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
             "name": "ClassesInternasTest2",
             "request": "launch",
             "mainClass": "src.estudos.javaintermediario.classesinternas.test.ClassesInternasTest2",
