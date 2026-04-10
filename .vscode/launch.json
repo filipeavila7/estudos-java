@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OptionalTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.optional.test.OptionalTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "MethodReferenceTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.Lambdas.test.MethodReferenceTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "LambdasTest2",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.Lambdas.LambdasTest2",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
+            "name": "LambdasTest1",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.Lambdas.test.LambdasTest1",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
             "name": "ComportamentoPorParametroTest2",
             "request": "launch",
             "mainClass": "src.estudos.javaintermediario.comportamentos.test.ComportamentoPorParametroTest2",
