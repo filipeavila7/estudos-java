@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OptionalTest2",
+            "request": "launch",
+            "mainClass": "src.estudos.javaintermediario.optional.test.OptionalTest2",
+            "projectName": "teste_c2f49f57"
+        },
+        {
+            "type": "java",
             "name": "OptionalTest1",
             "request": "launch",
             "mainClass": "src.estudos.javaintermediario.optional.test.OptionalTest1",
