@@ -20,7 +20,7 @@ public class StreamsTest5 {
         List<String> collect2 = words.stream()
         .map(w -> w.split(""))
         // flatMap
-        .flatMap(Arrays::stream).collect(Collectors.toList()); // Arrays::stram, transforma os arrays String em Streams, junto com o flatMap que retrona um List<String> ao inves de um  List<String[]>
+        .flatMap(Arrays::stream).collect(Collectors.toList()); // Arrays::steram, transforma os arrays String em Streams, junto com o flatMap que retrona um List<String> ao inves de um  List<String[]>
 
         System.out.println(collect);
 
