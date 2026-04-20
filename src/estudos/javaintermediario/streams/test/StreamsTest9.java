@@ -18,7 +18,7 @@ public class StreamsTest9 {
 
         // criar uma stream de strings com o of
         Stream.of("shipin", "shipo", "teste").map(String::toUpperCase)
-                .forEach(s -> System.out.println(s));
+                .forEach(System.out::println);
 
         int [] nums = {1,2,3,4,5};
         // transforma array de numeros em um intStream
